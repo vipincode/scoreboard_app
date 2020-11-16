@@ -1,8 +1,12 @@
 
+@font-face {
+  font-family: "Open Sans";
+  src: url("../../fonts/OpenSans-Regular.ttf") format("truetype");
+}
 
 body {
   background: #e8e7e7;
-  font-family: arial;
+  font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
 }
 
